@@ -48,7 +48,7 @@ print("d) 2/10 = 20%")
 print("\nAufgabe 2.1.3:\n")
 
 print("a) 1/10 * 1/10 = 1/100 = 1%")
-print("b) 1/10 + 1/10 = 2/10 = 20%")
+print("b) 1-(9/10*9/10) = 19/100 = 19%")
 print("c) ((1,3), (2,2), (3,1), (2,2)) = 4/100 = 4%")
 print("d) ((10,9), (10,10), (9,10), (10,10)) = 4/100 = 4%")
 
@@ -77,6 +77,6 @@ print(" B\t", "0.2\t", "0.3\t", "0.5\t")
 print("!B\t", "0.4\t", "0.1\t", "0.5\t")
 print("\t", "0.6\t", "0.4\t", "1.0\t")
 
-print("a) Die Wahrscheinlichkeit, dass ein Einwohner beide Lokalblätter liest liegt bei 0.2. P(A∩B)")
+print("\na) Die Wahrscheinlichkeit, dass ein Einwohner beide Lokalblätter liest liegt bei 0.2. P(A∩B)")
 print("b) Die Wahrscheinlichkeit, dass ein Einwohner keines der Lokalblätter liest liegt bei 0.1. P(!A∩!B)")
 print("c) Die Wahrscheinlichkeit, dass ein Einwohner eines der Lokalblätter liest liegt bei 0.7. P((!A∩B)∪(A∩!B))")
